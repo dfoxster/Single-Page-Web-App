@@ -17,4 +17,4 @@ This project showcases the functionality of a single-page web application using 
 
 This Single-Page Web Application project is available under the MIT License.  See the LICENSE file for more info.
 
-<a href="/site/index.html">Demo Link</a>
+<a href="https://dfoxster.github.io/Single-Page-Web-App/site/index.html">Demo Link</a>
