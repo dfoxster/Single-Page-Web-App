@@ -16,3 +16,5 @@ This project showcases the functionality of a single-page web application using 
 ## License Information
 
 This Single-Page Web Application project is available under the MIT License.  See the LICENSE file for more info.
+
+<a href="../index.html">Demo Link</a>
