@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/css/bootstrap.min.css" integrity="sha384-r4NyP46KrjDleawBgD5tp8Y7UzmLA05oM1iAEQ17CSuDqnUK2+k9luXQOfXJCJ4I" crossorigin="anonymous">
+
 # Single-Page Web Application Exercise
 
 ## Overview
@@ -17,4 +19,4 @@ This project showcases the functionality of a single-page web application using 
 
 This Single-Page Web Application project is available under the MIT License.  See the LICENSE file for more info.
 
-<a href="https://dfoxster.github.io/Single-Page-Web-App/site/index.html">Demo Link</a>
+<a href="https://dfoxster.github.io/Single-Page-Web-App/site/index.html" class="btn btn-primary stretched-link">Demo Link</a>
